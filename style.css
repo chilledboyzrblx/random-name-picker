@@ -1,0 +1,49 @@
+body{
+    background-image:url("https://az705044.vo.msecnd.net/20181128/11-28-2018-7-00-21-pm.png");
+    background-size:cover;
+}
+#mainTitle{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:khaki;
+}
+#textInput{
+    width:200px;
+    height:30px;
+    font-size:25px;
+    background-color:rgb(0, 255, 255);
+    color:rgb(25, 41, 58);
+    border-radius:5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button{
+    width:100px;
+    height:40px;
+   background-color:maroon;
+   color:mintcream;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size:25px;
+   border-radius:10px;
+}
+#inputTexts{
+    font-size:25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:seashell;
+    border-radius:10px;
+}
+#WinnerLabel{
+    font-size:25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:seashell;
+    border-radius:10px;
+}
+#output{
+    font-size:25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:seashell;
+    border-radius:10px;
+    background-color:sienna;
+    width:300px;
+}
+#chooseBtn{
+    display:none;
+}
